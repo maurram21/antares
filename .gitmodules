@@ -7,3 +7,8 @@
 	path = ingadhoc/account-payment
 	url = git@github.com:ingadhoc/account-payment.git
 	branch = 11.0
+
+[submodule "aeroo/aeroo_reports"]
+	path = aeroo/aeroo_reports
+	url = git@github.com:aeroo/aeroo_reports.git
+	branch = 11.0
